@@ -1,0 +1,5 @@
+08:12:55.468 [main] INFO  org.accelrays.validateTitle - navigated to home page
+08:12:55.548 [main] INFO  org.accelrays.validateTitle - successfully validated text message
+08:19:29.156 [main] INFO  org.accelrays.validateNavBar - driver is initialized
+08:19:40.156 [main] INFO  org.accelrays.HomePage - driver initiated
+08:19:56.932 [main] INFO  org.accelrays.validateTitle - driver is initialized

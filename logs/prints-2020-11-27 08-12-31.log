@@ -1,0 +1,7 @@
+20:49:38.416 [main] INFO  org.accelrays.validateNavBar - navigation bar displayed and enabled
+20:49:42.580 [main] INFO  org.accelrays.HomePage - driver initiated
+20:49:44.340 [main] INFO  org.accelrays.HomePage - navigated to home page
+20:49:45.166 [main] INFO  org.accelrays.HomePage - navigated to home page
+20:49:49.049 [main] INFO  org.accelrays.validateTitle - driver is initialized
+20:49:54.804 [main] INFO  org.accelrays.validateTitle - navigated to home page
+20:49:54.836 [main] INFO  org.accelrays.validateTitle - successfully validated text message

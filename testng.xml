@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="org.accelrays.listeners"/>
+	<listener class-name="resources.ExtentReporterNG"/>
+</listeners>
+  <test name="validating homepage">
+    <classes>
+      <class name="org.accelrays.validateNavBar"/>
+    </classes>  
+  </test>
+   <test name="data drive test">
+    <classes>    
+      <class name="org.accelrays.HomePage"/>
+      </classes>
+   </test>
+    <test name="homepage title validation">
+    <classes>
+      <class name="org.accelrays.validateTitle"/>
+    </classes>
+  </test>
+</suite>

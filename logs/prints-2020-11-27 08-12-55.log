@@ -1,0 +1,7 @@
+08:12:31.594 [main] INFO  org.accelrays.validateNavBar - driver is initialized
+08:12:36.768 [main] INFO  org.accelrays.validateNavBar - navigated to home page
+08:12:36.888 [main] INFO  org.accelrays.validateNavBar - navigation bar displayed and enabled
+08:12:41.229 [main] INFO  org.accelrays.HomePage - driver initiated
+08:12:43.640 [main] INFO  org.accelrays.HomePage - navigated to home page
+08:12:44.713 [main] INFO  org.accelrays.HomePage - navigated to home page
+08:12:48.968 [main] INFO  org.accelrays.validateTitle - driver is initialized
